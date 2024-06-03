@@ -1,4 +1,4 @@
-# Targeted Sales Strategy through Data Analytics for Vrinda Store Using Excel
+# Targeted Sales Strategy for Vrinda Store Using Excel
 
 ## Objective
 Vrinda Store aims to create an annual sales report for 2022 to understand customer behavior and drive more sales in 2023.
